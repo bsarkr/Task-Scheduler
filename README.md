@@ -1,6 +1,6 @@
 #Task-Scheduler
 
-This project is still a work in progress, but it will be capable of the following:
+This personal project is still a work in progress, but it will be capable of the following:
 
 1) taking user input from a GUI
 2) Scheduling tasks based on deadlines, ensuring all tasks are done before the deadline.
